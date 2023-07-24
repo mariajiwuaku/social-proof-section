@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    
+}
+.container{
+    background-image: url(../images/bg-pattern-bottom-desktop.svg);
+    
+}
+.card-subtitle{
+    color: hsl(333, 80%, 67%);
+    font-size: 15px;
+}
+h2{
+    color: hsl(300, 43%, 22%);
+    font-size: bolder;
+    font-weight: 900;
+    font-family: league;
+    margin-top: 70px;
+}
+.star{
+    border: 1px hsl(333, 24%, 96%) solid;
+    width: 350px;
+    text-align: center;
+    align-items: center;
+    background-color: hsl(333, 24%, 96%);
+    margin-bottom: 5px;
+    margin-left: 50px;
+    
+}
+
+.star-1{
+    border: 1px hsl(333, 24%, 96%) solid;
+    width: 350px;
+    text-align: center;
+    align-items: center;
+    background-color: hsl(333, 24%, 96%);
+    margin-bottom: 5px;
+    margin-left: 60px;
+    
+}
+.star-2{
+    border: 1px hsl(333, 24%, 96%) solid;
+    width: 350px;
+    text-align: center;
+    align-items: center;
+    background-color: hsl(333, 24%, 96%);
+    margin-bottom: 5px;
+    margin-left: 70px;
+    
+}
